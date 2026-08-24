@@ -7,7 +7,6 @@ import FeaturedProject from './components/FeaturedProject';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Education from './components/Education';
-import Certifications from './components/Certifications';
 import Achievements from './components/Achievements';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
@@ -26,7 +25,6 @@ function App() {
         <Projects />
         <Experience />
         <Education />
-        <Certifications />
         <Achievements />
         <Resume />
         <Contact />
